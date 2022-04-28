@@ -4,6 +4,10 @@ using System.Text;
 
 namespace LineComparison
 {
+    //calculate its length
+    //- A Length as 2 Points (x1, y1) and (x2, y2) 
+    //- Length of a Line = sqrt( (x2 - x1) ^ 2 + (y2 - y1) ^ 2)
+    
     class LineUC1
     {
         public double x1, y1, x2, y2;
