@@ -16,6 +16,7 @@ namespace LineComparison
             //Console.ReadLine();
 
             //UC2
+            //two lines are the equal.
             Console.WriteLine("Welcome to Line Comparison Computation program on Master Branch");
             LineUC2 firstLine = new LineUC2();
             LineUC2 secondLine = new LineUC2();
