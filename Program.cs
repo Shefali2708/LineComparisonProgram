@@ -6,14 +6,7 @@ namespace LineComparison
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Line Comparison Computation");
-
-            //UC1
-            //LineUC1 LineUC1 = new LineUC1();
-            //LineUC1.Values();
-            // double length = LineUC1.GetLength();
-            //Console.WriteLine("Length of first Line according to points is= " + length);
-            //Console.ReadLine();
+            Console.WriteLine("Welcome to Line Comparison Computation UC Find Equal,Greater,Less")
 
             //UC3
             Console.WriteLine("Welcome to Line Comparison Computation program on Master Branch");
